@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using Lightweight CNN & Explainable AI
+# 🌿 Lightweight CNN for Plant Disease Detection: Transfer Learning and XAI
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plant-disease-detection-ogc4xelrfml9zsepjmgor5.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
